@@ -231,6 +231,7 @@ footer {
     position: fixed;
     right: 0;
     bottom: 277px;
+    padding-bottom: 120px;
     padding-right: 100px;
     min-width:100%;
     z-index: -1;  /*places video behind the other elements on the page*/
