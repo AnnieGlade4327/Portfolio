@@ -129,7 +129,7 @@ footer {
     overflow: hidden;
     /* This ensures that any content that overflows beyond the boundary of our nav bar is not displayed */
     background-color: #8fafa5;
-    opacity: 65%;
+    opacity: 65%; /*I added opacity to navbar so the overlay was better on how vid had to be sized*/
     /* This colors the navbar black */
     position: fixed;
     /* This keeps the navbar at the top of the screen as we scroll */
